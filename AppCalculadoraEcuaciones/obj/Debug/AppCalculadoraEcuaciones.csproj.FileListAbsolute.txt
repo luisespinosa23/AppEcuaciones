@@ -1,0 +1,47 @@
+c:\users\carlos josé\documents\visual studio 2015\Projects\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.exe.config
+c:\users\carlos josé\documents\visual studio 2015\Projects\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.exe
+c:\users\carlos josé\documents\visual studio 2015\Projects\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.pdb
+c:\users\carlos josé\documents\visual studio 2015\Projects\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.csprojResolveAssemblyReference.cache
+c:\users\carlos josé\documents\visual studio 2015\Projects\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.Form1.resources
+c:\users\carlos josé\documents\visual studio 2015\Projects\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.Properties.Resources.resources
+c:\users\carlos josé\documents\visual studio 2015\Projects\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.csproj.GenerateResource.Cache
+c:\users\carlos josé\documents\visual studio 2015\Projects\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.exe
+c:\users\carlos josé\documents\visual studio 2015\Projects\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.pdb
+C:\Users\Usuario\Documents\UNIVERSIDAD\6Sexto Semestre\Matematicas Discretas\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.exe.config
+C:\Users\Usuario\Documents\UNIVERSIDAD\6Sexto Semestre\Matematicas Discretas\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.exe
+C:\Users\Usuario\Documents\UNIVERSIDAD\6Sexto Semestre\Matematicas Discretas\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.pdb
+C:\Users\Usuario\Documents\UNIVERSIDAD\6Sexto Semestre\Matematicas Discretas\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.exe
+C:\Users\Usuario\Documents\UNIVERSIDAD\6Sexto Semestre\Matematicas Discretas\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.pdb
+C:\Users\Usuario\Documents\UNIVERSIDAD\6Sexto Semestre\Matematicas Discretas\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\UNIVERSIDAD\6Sexto Semestre\Matematicas Discretas\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.Form1.resources
+C:\Users\Usuario\Documents\UNIVERSIDAD\6Sexto Semestre\Matematicas Discretas\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.Properties.Resources.resources
+C:\Users\Usuario\Documents\UNIVERSIDAD\6Sexto Semestre\Matematicas Discretas\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.csproj.GenerateResource.Cache
+E:\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.exe.config
+E:\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.exe
+E:\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.pdb
+E:\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.exe
+E:\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.pdb
+E:\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.csprojResolveAssemblyReference.cache
+E:\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.Form1.resources
+E:\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.Properties.Resources.resources
+E:\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.exe.config
+C:\Users\Usuario\Desktop\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.exe
+C:\Users\Usuario\Desktop\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.pdb
+C:\Users\Usuario\Desktop\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.exe
+C:\Users\Usuario\Desktop\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.pdb
+C:\Users\Usuario\Desktop\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.Properties.Resources.resources
+C:\Users\Usuario\Desktop\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.GUIArbol.resources
+C:\Users\Usuario\Desktop\MatematicasDiscretas-master\AppCalculadoraEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.Principal.resources
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.exe.config
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.exe
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.pdb
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.exe
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.pdb
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.csprojResolveAssemblyReference.cache
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.GUIArbol.resources
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.Principal.resources
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.Properties.Resources.resources
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.csproj.GenerateResource.Cache

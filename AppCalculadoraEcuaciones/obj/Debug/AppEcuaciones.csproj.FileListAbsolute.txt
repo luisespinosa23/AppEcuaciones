@@ -1,0 +1,10 @@
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppEcuaciones.csprojResolveAssemblyReference.cache
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.GUIArbol.resources
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.Principal.resources
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.Properties.Resources.resources
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppEcuaciones.csproj.GenerateResource.Cache
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.exe
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\obj\Debug\AppCalculadoraEcuaciones.pdb
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.exe.config
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.exe
+C:\Users\BALLM\Desktop\Discretas\AppEcuaciones\AppEcuaciones\AppCalculadoraEcuaciones\bin\Debug\AppCalculadoraEcuaciones.pdb
